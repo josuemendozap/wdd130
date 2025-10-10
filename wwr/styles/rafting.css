@@ -296,7 +296,7 @@ textarea {
     text-align: left;
 }
 
-input {
+input[type="submit"] {
     border-radius: .3rem;
     cursor: pointer;
 }
