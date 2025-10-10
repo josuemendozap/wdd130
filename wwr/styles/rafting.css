@@ -78,6 +78,13 @@ article {
     margin-top: 25px;
 }
 
+.information h1 {
+    position: static;
+    text-align: center;
+    padding: 10px;
+    opacity: .9;
+}
+
 h2 {
     text-align: center;
     padding: 10px;
@@ -296,7 +303,7 @@ textarea {
     text-align: left;
 }
 
-input[type="submit"] {
+button {
     border-radius: .3rem;
     cursor: pointer;
 }
